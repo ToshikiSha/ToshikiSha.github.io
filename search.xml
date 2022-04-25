@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>bolg_01</title>
-    <url>/2022/03/28/bolg-01/</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Our Web</title>
-    <url>/2022/04/24/Our-Web/</url>
-    <content><![CDATA[<p>Hello this is the test for comment</p>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>new test for comment</title>
-    <url>/2022/04/24/new-test-for-comment/</url>
-    <content><![CDATA[<p>This is a another test</p>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>test blog</title>
     <url>/2022/03/28/test-blog/</url>
     <content><![CDATA[<h1 id="The-first-blog"><a href="#The-first-blog" class="headerlink" title="The first blog"></a>The first blog</h1><p>This is a test for our blog<br><img src="https://pic.imgdb.cn/item/62415cb827f86abb2aa635cf.jpg"></p>
 ]]></content>
       <tags>
         <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Our stories</title>
+    <url>/2022/04/24/Our_stories/</url>
+    <content><![CDATA[<p>My volunteering journey started six years ago, it began by attending my local youth forum, leading into five years of being involved in the Highland Youth Parliament.  </p>
+<p><img src="https://pic.imgdb.cn/item/6266d261239250f7c5862c98.jpg"></p>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>new stories</title>
+    <url>/2022/04/24/New_stories/</url>
+    <content><![CDATA[<p>Why do you volunteer?<br>This may sound a bit strange, but I like that you don’t get paid!  What I mean by that is I can pick it and put it down when I need to.  I don’t have to do it but I get the feel good factor by being involved.</p>
+<p><img src="https://pic.imgdb.cn/item/6266d30b239250f7c5875ed9.jpg"></p>
+]]></content>
+      <tags>
+        <tag>blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A good day</title>
+    <url>/2022/03/28/A_good_day/</url>
+    <content><![CDATA[<p>I got involved in volunteering with seescape after my own personal experience. I lost an eye when I was young, and seescape, was on hand to help both myself and my family. Later in life, I lost a percentage of sight in my good eye, again seescape was on hand and helped again.</p>
+<p><img src="https://pic.imgdb.cn/item/6266d358239250f7c587ebd3.jpg"></p>
+]]></content>
+      <tags>
+        <tag>test</tag>
       </tags>
   </entry>
 </search>
